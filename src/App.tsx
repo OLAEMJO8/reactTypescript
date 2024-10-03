@@ -1,4 +1,5 @@
 import { Counter } from "./components/Counter";
+import { Formulario } from "./components/Formulario";
 import { TimerPadre } from "./components/TimerPadre";
 import { Usuario } from "./components/Usuario";
 function App() {
@@ -16,6 +17,10 @@ function App() {
       <h2>useEffect-useRef</h2>
       <hr />
       <TimerPadre />
+
+      <h2>custom HOOK</h2>
+      <hr />
+      <Formulario />
     </div>
   );
 }
