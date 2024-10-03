@@ -8,8 +8,8 @@ export const Counter = () => {
   };
 
   return (
-    <div className="mt-5">
-      <h3>Counter: useState</h3>
+    <div>
+      <h4>Counter: useState</h4>
 
       <span>Valor: {counter}</span>
       <br />

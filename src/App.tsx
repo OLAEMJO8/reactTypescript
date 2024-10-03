@@ -8,6 +8,7 @@ function App() {
 
       <hr />
       <h2>useState</h2>
+      <hr />
       <Counter />
       <hr />
       <Usuario />

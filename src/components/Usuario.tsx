@@ -22,7 +22,7 @@ export const Usuario = () => {
 
   return (
     <div>
-      <h2>Usuario: useState</h2>
+      <h4>Usuario: useState</h4>
 
       <button onClick={login} className="btn btn-outline-primary mt-2  mx-2">
         Login
